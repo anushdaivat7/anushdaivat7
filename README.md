@@ -18,6 +18,17 @@
 
 ---
 
+## 🛠️ Projects  
+| Project                                                                          | Description                                                                                                                                                 |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Groq Translation API](https://github.com/anushdaivat7/groq-translation-api)** | FastAPI-based translation API using **Groq LLMs**, **LangChain**, prompt templates, and dynamic context. Blazing-fast, production-ready translation engine. |
+| **[Ollama AI Chatbot + Embeddings](https://github.com/anushdaivat7/Ollama)**     | Local LLM chatbot powered by **Ollama**, with **ChromaDB**, custom embeddings, RAG pipelines, and document loaders.                                     
+
+
+
+---
+
+
 ## 🏆 Achievements  
 🏆 **Winner – HSBC Hackathon 2025:** Built an AI-driven financial data aggregator with real-time analytics and intelligent insights  
 🏅 Built multiple end-to-end projects (full-stack + cloud + DB)  
